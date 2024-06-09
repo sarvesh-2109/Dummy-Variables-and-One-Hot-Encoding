@@ -2,6 +2,13 @@
 
 This repository contains a demonstration of how to use dummy variables and one-hot encoding for categorical data in machine learning models. The dataset used is related to car prices and includes features like car model, mileage, and age. The project shows how to handle categorical variables using pandas and scikit-learn libraries.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Dummy-Variables-and-One-Hot-Encoding/assets/113255836/cc06a337-4778-4107-8688-07c0e34703c3
+
+
+
 ## Table of Contents
 - [Dataset](#dataset)
 - [Installation](#installation)
